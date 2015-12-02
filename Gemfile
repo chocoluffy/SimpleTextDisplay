@@ -14,7 +14,7 @@ group :production do
 end
 
 
-
+gem 'twitter-bootstrap-rails'
 # gem 'bootstrap-sass'
 # gem 'autoprefixer-rails' # auto adding prefix for CSS code.
 
