@@ -1,7 +1,7 @@
 **The basic workflow to establish a working app on heroku:**
 
-
-```
+1. About basic deployment
+```ruby
 rails new railsgirls
 
 rails scaffold idea name:string description:text message:string
@@ -29,6 +29,49 @@ heroku create
 git push heroku origin 
 
 heroku rake:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
